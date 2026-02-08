@@ -6,22 +6,22 @@ A Windows shell (explorer.exe) replacement
 * Easy to use
 
 ## Modules
-* wiCore
+### wiCore
 - Core system functionality
 - ~10KB disk usage
 
-* wiPanel
+### wiPanel
 - Editable panels/taskbars
 - ~?KB disk usage
 
-* wiWM
+### wiWM
 - Customizable window manager
 - ~?KB disk usage
 
-* wiTerm
+### wiTerm
 - Custom terminal/command prompt
 - ~?KB disk usage
 
-* wiConf
+### wiConf
 - Configuration manager for wiShell
 - ~?KB disk usage
